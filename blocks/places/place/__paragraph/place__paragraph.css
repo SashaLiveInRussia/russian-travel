@@ -1,0 +1,15 @@
+.place__paragraph {
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 26px;
+}
+
+.place__paragraph p:not(:last-of-type) {
+  padding-bottom: 25px;
+}
+
+@media screen and (max-width: 720px) {
+  .place__paragraph {
+    font-size: 16px;
+  }
+}

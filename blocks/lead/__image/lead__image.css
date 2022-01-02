@@ -3,11 +3,16 @@
     margin: 0 auto 8px;
   }
 
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 1024px) {
     .lead__image {
       max-width: calc(100% + (24px + 24px));
       margin: 0 -24px;
     }
-  
   }
   
+  @media screen and (max-width: 768px) {
+	.lead__image {
+	  max-width: calc(100% + (16px + 16px));
+	  margin: 0 -16px;
+	}
+ }
