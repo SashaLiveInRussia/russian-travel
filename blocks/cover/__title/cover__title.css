@@ -6,6 +6,8 @@
   line-height: 76px;
   text-align: center;
   padding-bottom: 32px;
+  max-width: 50%;
+  margin: auto;
 }
 
 @media screen and (max-width: 767px) {
