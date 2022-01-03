@@ -15,21 +15,21 @@
   opacity: 0.8;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1279px) {
   .cover {
     height: 640px;
     margin: 0 -48px 92px;
   }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .cover {
     height: 480px;
     margin: 0 -24px 88px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .cover {
     height: 60vw;
     margin: 0 -16px 64px;
