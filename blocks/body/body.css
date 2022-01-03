@@ -17,7 +17,3 @@ img {
   max-width: 100%;
 }
 
-@font-face {
-  font-family: "Inter", Arial, sans-serif;
-  src: url(/fonts/Web/inter.css);
-}
