@@ -24,6 +24,11 @@ body {
   margin: 0;
 }
 
+p {
+  margin: 0;
+}
+
+
 /**
  * Render the `main` element consistently in IE.
  */
@@ -75,6 +80,7 @@ pre {
 
 a {
   background-color: transparent;
+  text-decoration: none;
 }
 
 /**
@@ -147,6 +153,7 @@ sup {
 
 img {
   border-style: none;
+  max-width: 100%;
 }
 
 /* Forms

@@ -5,6 +5,7 @@
   line-height: 18px;
   text-decoration: none;
   flex-direction: row;
+  color: #FFFFFF;
 }
 
 .footer__link:hover {
