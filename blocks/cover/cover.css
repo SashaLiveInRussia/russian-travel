@@ -9,6 +9,7 @@
   background-size: cover;
   background-repeat: no-repeat;
   margin: 0 auto 92px;
+  max-width: 100%;
 }
 
 .cover:hover .cover__overlay {
