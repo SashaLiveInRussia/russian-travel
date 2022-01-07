@@ -1,7 +1,0 @@
-.place__paragraph_p {
-  margin: 0;
-}
-
-.place__paragraph_p:not(:last-of-type) {
-  padding-bottom: 25px;
-}
